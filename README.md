@@ -1,1 +1,3 @@
 # JanjanMahjong
+
+Work in progress
